@@ -1,3 +1,4 @@
+#! /usr/bin/env_node
 import inquirer from "inquirer"
 let todos = [];
 let condition = true;
